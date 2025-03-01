@@ -1,4 +1,4 @@
-https://manabu-nakamura.github.io/just-the-docs/
+https://manabu-nakamura.github.io/just-the/
 
 - [Material Components for Android](https://github.com/material-components/material-components-android)
   - [App](https://github.com/manabu-nakamura/app) 🟥
